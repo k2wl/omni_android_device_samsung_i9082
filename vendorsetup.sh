@@ -1,0 +1,1 @@
+add_lunch_combo omni_i9082-userdebug
